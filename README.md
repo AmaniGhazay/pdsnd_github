@@ -7,10 +7,12 @@
 ### it is about renting the bikes for new york , washington and chicago cities.
 
 ### 
-chicago.csv
-new_york_city.csv
-washington.csv
-bikeshare.py
+bikeshare.py # this is the python script
+
+- these are the CSV files 
+1- chicago.csv 
+2- new_york_city.csv
+3- washington.csv
 
 
 ### udacity instructers 
